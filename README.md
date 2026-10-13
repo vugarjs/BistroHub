@@ -17,7 +17,7 @@ A simple, responsive restaurant website built with HTML, CSS, and JavaScript.
   
 ## 🌐 Live Demo
 
-Check out the live website: [BistroHub](https://genuine-alfajores-de17c3.netlify.app/)
+Check out the live website: [BistroHub](https://bistrohub-vugar.netlify.app/)
 
 ## 🚀 Getting Started
 
