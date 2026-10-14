@@ -18,6 +18,7 @@ A simple, responsive restaurant website built with HTML, CSS, and JavaScript.
 ## 🌐 Live Demo
 
 Check out the live website: [BistroHub](https://bistrohub-vugar.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/04a3bbd0-8a53-4aa7-ad2e-c77ab2e587ba/deploy-status)](https://app.netlify.com/projects/bistrohub-vugar/deploys)
 
 ## 🚀 Getting Started
 
